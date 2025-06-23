@@ -40,7 +40,7 @@ Aqui você encontrará materiais, apostilas e projetos que podem auxiliar no apr
 </p>
 
 <p align="left">
-  💼 Software: <strong> Visual Studio Code.</strong>
+  💼 Exercícios: <strong> Na pasta APOSTILAS.</strong>
 </p>
 
 <p align="left">
