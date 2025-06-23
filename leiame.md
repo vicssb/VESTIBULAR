@@ -4,82 +4,43 @@
 <a href="./README.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
   <H1><b> Victor Sérgio Silva Barros </b> </H1>
-  
 </p> 
 
 <p align="left">  
-Tenho mais de 30 anos de experiência na área de Tecnologia da Informação.<br>
-Possuo ampla experiência como analista de sistemas, programador, consultor de sistemas de informação, engenheiro de Machine Learning e analista de dados, atuando em desenvolvimento. CID: M24-6; M21-5
-<br>
+Este repositório é dedicado ao estudo e preparação para vestibulares e concursos.<br>
+Aqui você encontrará materiais, apostilas e projetos que podem auxiliar no aprendizado e na organização dos estudos.<br>
 </p>
 
 <p align="left">
-  
-  🧠 <b>IA | Aprendizado de máquina</b><br>
+  📚 <b>Apostilas</b><br>
   <ul>
       <li>
-        <a href="https://github.com/vicssb/machine-learning-specialist-training/blob/main/leiame.md"> Formação Machine Learning Specialist
+        <a href="./APOSTILAS/Matematica_Basica_Aulas_1_a_26_Vol_Unico.pdf"> Matemática Basica</a>
       </li>
       <li>
-        <a href="https://github.com/vicssb/lab_asset_forecast" alt="Lab_asset_forecast" target = "_blank"> Lab_asset_forecast 
+        <a href="./APOSTILAS/matematica discreta/"> Matemática discreta</a>
       </li>
       <li>
-        <a href="https://github.com/vicssb/chatbot-gemini-api" alt="Chatbot-gemini-api" target = "_blank"> Chatbot-gemini-api
+        <a href="./APOSTILAS/geometria basica.pdf"> geometria basica</a>
       </li>
       <li>
-        <a href="https://github.com/vicssb/sistema-eleicao-quarkus" alt="sistema-eleicao-quarkus" target = "_blank"> Sistema eleitoral Quarkus
+        <a href="./APOSTILAS/ICF1.pdf"> Física 1</a>
+      </li>
+      <li>
+        <a href="./APOSTILAS/ICF2 exercicios/"> Física 2</a>
+      </li>
+      <li>
+        <a href="./APOSTILAS/Pré-Cálculo.pdf"> Pré-Cálculo </a>
+      </li>
+      <li>
+        <a href="./APOSTILAS/AL 1/"> Algebra Linear </a>
       </li>
       
   </ul>
-  🦄 <b>Informática</b><br>
-  <ul>
-<li>
-  Sistemas operacionais:
-  Linux, Microsoft Windows 10, Microsoft Windows 7, Unix, Windows Server 2008 
-</li>
-<li>
-  Software:
-   Adobe Photoshop CorelDRAW Microsoft Access Microsoft Excel Microsoft Office Microsoft PowerPoint Microsoft Visio Microsoft Word 
-</li>
-<li>
-  Computer:
-    Network - Linux 
- </li>
-<li>
-Banco de dados:
- Microsoft SQL Server, MySQL, Oracle 9i - DBA, PostgreSQL, Data Mining, Data Modeling Multidimensional, Data Modeling Object Oriented, Database Modeling and Administration 
-</li>
-<li>
-Internet:
- Configuration and Use of E-mail - Design for Internet - Internet Access Configuration - Internet Systems Development - Internet Diagramming - Navigation and Search 
-</li>
-<li>
-Programação:
- Microsoft Visual Studio MVC - Model View Controller, Back-end Programming ASP Active Server Pages, Programming ASPX .NET, Programming Assembly, Programming C, Programming C#, Programming C++, Programming CSS3, Programming Delphi, Programming Flash, Programming HTML5, Programming in Java, Programming in JavaScript, Programming in JQuery, Programming in Json, Programming in MATLAB, Programming in Microsoft SQL, Programming in Microsoft .NET, Platform Programming in VBScript, Programming in Visual Basic Front-end and Programming Object Oriented Programming 
-</li>
-</ul>
-💌 <b>Características Pessoais</b>
-<ul>
-<li>
-Habilidades:
- Acompanhamento de Resultados, capacidade de motivar equipes, capacidade de resolver problemas, gestão com foco em resultados, liderança e visão organizacional
-</li>
-<li>
-Habilidades pessoais:
- Autodidata, Ambição, Capacidade de Integração de Pessoas, Capacidade de Motivar Organização, Capacidade Criatividade, Dinamismo, Eficiência, Empreendedorismo, Espírito Espontaneidade, Facilidade de Adaptação, Facilidade de Aprendizagem, Facilidade de Comunicação e Expressão, Facilidade de Relacionamento Interpessoal, Facilidade de Trabalhar em a Grupo, Iniciativa de Força de Vontade, Perfil de Liderança, Extrovertida, Persistência, Proatividade e Sociabilidade.
-</li>
-<li>
-Treinamento: 
- Treinamento de Instrução, Consultoria de Treinamento e Treinamento de Usuário
-</li>
-<li>
-Projetos:
- Projeto de Apresentação, Desenvolvimento, Gerenciamento de Projetos, Implementação de Projetos e Projetos Web</li>
-</ul>
 </p>
 
 <p align="left">
-  💼 Software: <strong>Eclipse, Visual Studio Code, Intellij, JBoss, Rational Rose, Jude UML.</strong>
+  💼 Software: <strong> Visual Studio Code.</strong>
 </p>
 
 <p align="left">
